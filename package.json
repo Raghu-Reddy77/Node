@@ -1,11 +1,23 @@
 {
-  "name": "node",
+  "name": "Node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "0-module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Raghu",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghu-Reddy77/NodePractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghu-Reddy77/NodePractice/issues"
+  },
+  "homepage": "https://github.com/Raghu-Reddy77/NodePractice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
 }

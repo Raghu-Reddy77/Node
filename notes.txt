@@ -1,0 +1,9 @@
+--->every js file by default it is module
+---> exports we can access everyware 
+---> Built in modules
+     1)os
+     2)path
+     3)file system(fs)
+     4)http
+
+--->
